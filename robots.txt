@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iparcylo.github.io/sitemap.html.gz
+Sitemap: https://iparcylo.github.io/app/sitemap.html.gz
+Sitemap: https://iparcylo.github.io/assets/sitemap.html.gz
+Sitemap: https://iparcylo.github.io/css/sitemap.html.gz
+Sitemap: https://iparcylo.github.io/includes/sitemap.html.gz
+Sitemap: https://iparcylo.github.io/item/sitemap.html.gz
+Sitemap: https://iparcylo.github.io/src/sitemap.html.gz
